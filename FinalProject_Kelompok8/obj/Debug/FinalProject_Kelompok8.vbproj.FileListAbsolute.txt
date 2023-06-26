@@ -1,0 +1,179 @@
+C:\Users\hadya\source\repos\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\FinalProject_Kelompok8.exe.config
+C:\Users\hadya\source\repos\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\FinalProject_Kelompok8.exe
+C:\Users\hadya\source\repos\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\FinalProject_Kelompok8.pdb
+C:\Users\hadya\source\repos\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\FinalProject_Kelompok8.xml
+C:\Users\hadya\source\repos\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.vbproj.AssemblyReference.cache
+C:\Users\hadya\source\repos\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.vbproj.SuggestedBindingRedirects.cache
+C:\Users\hadya\source\repos\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.LoginRegister.resources
+C:\Users\hadya\source\repos\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.Resources.resources
+C:\Users\hadya\source\repos\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.vbproj.GenerateResource.cache
+C:\Users\hadya\source\repos\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.vbproj.CoreCompileInputs.cache
+C:\Users\hadya\source\repos\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.exe
+C:\Users\hadya\source\repos\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.xml
+C:\Users\hadya\source\repos\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.pdb
+C:\Users\hadya\source\repos\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.vbproj.CopyComplete
+C:\Users\hadya\source\repos\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.exe.licenses
+C:\Users\hadya\source\repos\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.MenuCustomer.resources
+C:\Users\hadya\source\repos\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\hadya\source\repos\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\hadya\source\repos\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\hadya\source\repos\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\hadya\source\repos\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\Guna.UI2.dll
+C:\Users\hadya\source\repos\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\hadya\source\repos\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\hadya\source\repos\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.MenuUtama.resources
+C:\Users\hadya\source\repos\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8 (4)\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\FinalProject_Kelompok8.exe.config
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8 (4)\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\FinalProject_Kelompok8.exe
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8 (4)\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\FinalProject_Kelompok8.pdb
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8 (4)\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\FinalProject_Kelompok8.xml
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8 (4)\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8 (4)\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.vbproj.AssemblyReference.cache
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8 (4)\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.vbproj.SuggestedBindingRedirects.cache
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8 (4)\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.LoginRegister.resources
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8 (4)\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.MenuCustomer.resources
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8 (4)\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.MenuUtama.resources
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8 (4)\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.Resources.resources
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8 (4)\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.vbproj.GenerateResource.cache
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8 (4)\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.exe.licenses
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8 (4)\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.vbproj.CoreCompileInputs.cache
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8 (4)\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.vbproj.CopyComplete
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8 (4)\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.exe
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8 (4)\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.xml
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8 (4)\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.pdb
+C:\Users\SINTA\OneDrive\Documents\SEMESTER 3\PEM.DESKTOP\Final_Project\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\FinalProject_Kelompok8.exe.config
+C:\Users\SINTA\OneDrive\Documents\SEMESTER 3\PEM.DESKTOP\Final_Project\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\FinalProject_Kelompok8.exe
+C:\Users\SINTA\OneDrive\Documents\SEMESTER 3\PEM.DESKTOP\Final_Project\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\FinalProject_Kelompok8.pdb
+C:\Users\SINTA\OneDrive\Documents\SEMESTER 3\PEM.DESKTOP\Final_Project\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\FinalProject_Kelompok8.xml
+C:\Users\SINTA\OneDrive\Documents\SEMESTER 3\PEM.DESKTOP\Final_Project\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\SINTA\OneDrive\Documents\SEMESTER 3\PEM.DESKTOP\Final_Project\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.vbproj.AssemblyReference.cache
+C:\Users\SINTA\OneDrive\Documents\SEMESTER 3\PEM.DESKTOP\Final_Project\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.vbproj.SuggestedBindingRedirects.cache
+C:\Users\SINTA\OneDrive\Documents\SEMESTER 3\PEM.DESKTOP\Final_Project\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.for_lusi.resources
+C:\Users\SINTA\OneDrive\Documents\SEMESTER 3\PEM.DESKTOP\Final_Project\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.for_lusi_2.resources
+C:\Users\SINTA\OneDrive\Documents\SEMESTER 3\PEM.DESKTOP\Final_Project\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.for_lusi_3.resources
+C:\Users\SINTA\OneDrive\Documents\SEMESTER 3\PEM.DESKTOP\Final_Project\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.for_lusi_4.resources
+C:\Users\SINTA\OneDrive\Documents\SEMESTER 3\PEM.DESKTOP\Final_Project\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.LoginRegister.resources
+C:\Users\SINTA\OneDrive\Documents\SEMESTER 3\PEM.DESKTOP\Final_Project\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.MenuCustomer.resources
+C:\Users\SINTA\OneDrive\Documents\SEMESTER 3\PEM.DESKTOP\Final_Project\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.MenuUtama.resources
+C:\Users\SINTA\OneDrive\Documents\SEMESTER 3\PEM.DESKTOP\Final_Project\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.Resources.resources
+C:\Users\SINTA\OneDrive\Documents\SEMESTER 3\PEM.DESKTOP\Final_Project\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.vbproj.GenerateResource.cache
+C:\Users\SINTA\OneDrive\Documents\SEMESTER 3\PEM.DESKTOP\Final_Project\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.exe.licenses
+C:\Users\SINTA\OneDrive\Documents\SEMESTER 3\PEM.DESKTOP\Final_Project\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.vbproj.CoreCompileInputs.cache
+C:\Users\SINTA\OneDrive\Documents\SEMESTER 3\PEM.DESKTOP\Final_Project\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.vbproj.CopyComplete
+C:\Users\SINTA\OneDrive\Documents\SEMESTER 3\PEM.DESKTOP\Final_Project\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.exe
+C:\Users\SINTA\OneDrive\Documents\SEMESTER 3\PEM.DESKTOP\Final_Project\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.xml
+C:\Users\SINTA\OneDrive\Documents\SEMESTER 3\PEM.DESKTOP\Final_Project\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.pdb
+C:\Users\SINTA\OneDrive\Documents\SEMESTER 3\PEM.DESKTOP\Final_Project\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\SINTA\OneDrive\Documents\SEMESTER 3\PEM.DESKTOP\Final_Project\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.stock.resources
+C:\Users\SINTA\OneDrive\Documents\SEMESTER 3\PEM.DESKTOP\Final_Project\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.Setting.resources
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\FinalProject_Kelompok8.exe.config
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\FinalProject_Kelompok8.exe
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\FinalProject_Kelompok8.pdb
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\FinalProject_Kelompok8.xml
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.vbproj.AssemblyReference.cache
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.vbproj.SuggestedBindingRedirects.cache
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.for_lusi.resources
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.for_lusi_2.resources
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.for_lusi_3.resources
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.for_lusi_4.resources
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.LoginRegister.resources
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.MenuCustomer.resources
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.MenuUtama.resources
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.Resources.resources
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.Setting.resources
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.stock.resources
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.vbproj.GenerateResource.cache
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.exe.licenses
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.vbproj.CoreCompileInputs.cache
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.vbproj.CopyComplete
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.exe
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.xml
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.pdb
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.History.resources
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.Promo.resources
+D:\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\FinalProject_Kelompok8.exe.config
+D:\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\FinalProject_Kelompok8.exe
+D:\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\FinalProject_Kelompok8.pdb
+D:\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\FinalProject_Kelompok8.xml
+D:\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\FontAwesome.Sharp.dll
+D:\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\Guna.UI2.dll
+D:\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.vbproj.AssemblyReference.cache
+D:\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.vbproj.SuggestedBindingRedirects.cache
+D:\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.History.resources
+D:\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.LoginRegister.resources
+D:\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.MenuCustomer.resources
+D:\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.MenuUtama.resources
+D:\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.Resources.resources
+D:\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.Promo.resources
+D:\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.Setting.resources
+D:\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.stock.resources
+D:\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.vbproj.GenerateResource.cache
+D:\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.exe.licenses
+D:\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.vbproj.CoreCompileInputs.cache
+D:\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.vbproj.CopyComplete
+D:\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.exe
+D:\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.xml
+D:\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.pdb
+D:\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.search.resources
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8 (6)\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\FinalProject_Kelompok8.exe.config
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8 (6)\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\FinalProject_Kelompok8.exe
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8 (6)\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\FinalProject_Kelompok8.pdb
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8 (6)\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\FinalProject_Kelompok8.xml
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8 (6)\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8 (6)\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8 (6)\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.vbproj.AssemblyReference.cache
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8 (6)\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.vbproj.SuggestedBindingRedirects.cache
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8 (6)\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.History.resources
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8 (6)\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.LoginRegister.resources
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8 (6)\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.MenuCustomer.resources
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8 (6)\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.MenuUtama.resources
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8 (6)\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.Resources.resources
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8 (6)\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.Promo.resources
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8 (6)\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.search.resources
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8 (6)\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.Setting.resources
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8 (6)\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.stock.resources
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8 (6)\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.vbproj.GenerateResource.cache
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8 (6)\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.exe.licenses
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8 (6)\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.vbproj.CoreCompileInputs.cache
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8 (6)\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.vbproj.CopyComplete
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8 (6)\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.exe
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8 (6)\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.xml
+C:\Users\SINTA\Downloads\FinalProject_Kelompok8 (6)\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.pdb
+E:\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\FinalProject_Kelompok8.exe.config
+E:\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\FinalProject_Kelompok8.exe
+E:\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\FinalProject_Kelompok8.pdb
+E:\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\FinalProject_Kelompok8.xml
+E:\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+E:\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+E:\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+E:\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+E:\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+E:\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+E:\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\FontAwesome.Sharp.dll
+E:\FinalProject_Kelompok8\FinalProject_Kelompok8\bin\Debug\Guna.UI2.dll
+E:\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.vbproj.AssemblyReference.cache
+E:\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.vbproj.SuggestedBindingRedirects.cache
+E:\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.History.resources
+E:\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.LoginRegister.resources
+E:\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.MenuCustomer.resources
+E:\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.MenuUtama.resources
+E:\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.Resources.resources
+E:\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.Promo.resources
+E:\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.search.resources
+E:\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.Setting.resources
+E:\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.stock.resources
+E:\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.vbproj.GenerateResource.cache
+E:\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.exe.licenses
+E:\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.vbproj.CoreCompileInputs.cache
+E:\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.vbproj.CopyComplete
+E:\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.exe
+E:\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.xml
+E:\FinalProject_Kelompok8\FinalProject_Kelompok8\obj\Debug\FinalProject_Kelompok8.pdb
